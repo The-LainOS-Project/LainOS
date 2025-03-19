@@ -34,7 +34,7 @@ To install the LainOS distro you need
    - Begin planning and development for an Alpine-based LainOS release aimed at users who dislike systemd
 ## Features
 > TODO
-## Comunity
-Reddit: [LainOsdevelopers](https://www.reddit.com/r/LainOSdevelopers/)
+## Community
+Reddit: [LainOSdevelopers](https://www.reddit.com/r/LainOSdevelopers/)
 
 Matrix community chat: [Matrix](https://matrix.to/#/!hhlpPAPloYluaKwYAb:matrix.org?via=matrix.org)
