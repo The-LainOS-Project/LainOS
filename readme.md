@@ -31,7 +31,7 @@ To install the LainOS distro you need
 8. **Post-Release Support**  
    - Monitor feedback and plan future updates.
 9. **Future Development: Artix-Based LainOS**  
-   - Begin planning and development for an Artix-based LainOS release aimed at users who dislike systemd
+   - Begin planning and development for an Artix-based LainOS release aimed at users who dislike systemd.
 ## Features
 > TODO
 ## Community
