@@ -1,7 +1,7 @@
 > TODO TAGS AND STATUS OF BUILDS
 # ¡Welcome to LainOS Project!
 ## LainOS is a community driven Linux project built by the Serial Experiments Lain community developers.
-This project aims to create a light, useful and powerful linux distribution based on Arch Linux which is specifially usefull for a clean and custom operating system, the possibilites of customization and the stable releases make a very good option to develop the project.
+This project aims to create a light, useful and powerful linux distribution based on Arch Linux which simply provides a clean and custom operating system. The possibilites of customization and the rolling release model create an exceptional structure for project development.
 ## Download
 You can download the ISO file from the links below.
 
@@ -30,8 +30,8 @@ To install the LainOS distro you need
    - Launch stable version with marketing efforts.
 8. **Post-Release Support**  
    - Monitor feedback and plan future updates.
-9. **Future Development: Alpine-Based LainOS**  
-   - Begin planning and development for an Alpine-based LainOS release aimed at users who dislike systemd
+9. **Future Development: Artix-Based LainOS**  
+   - Begin planning and development for an Artix-based LainOS release aimed at users who dislike systemd
 ## Features
 > TODO
 ## Community
