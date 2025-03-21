@@ -50,13 +50,13 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - Customized shell, shell prompt, and terminal tools for easy speedy "devving"
 
-- Arch User Repository Access
+- Arch user repository access
 
 - Sleek aethetics from the wired
 
 - Sane Defaults(**just kidding**)
 
-- Privacy Suite: gpa, KeepassXC, macchanger, kloak keyboard anonymization, proxy-chains, tor
+- Privacy Suite: wireguard-tools, gpa(pgp keyring), KeepassXC, macchanger, kloak keyboard anonymization, proxy-chains, tor
 
 - Skid Suite:
   bettercap, 
