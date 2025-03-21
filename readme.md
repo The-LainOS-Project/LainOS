@@ -38,34 +38,36 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 9. **Future Development: Artix-Based LainOS**  
    - Begin planning and development for an Artix-based LainOS release aimed at users who dislike systemd.
 ## Features
+- Made with **Love**
 
 - Encrypted easy installations
 
 - Snappy performance due to lightweight window managers
 
-- It's Ultra Based, on Arch Linux
+- It's **Ultra Based**, on Arch Linux
 
 - Developer tools and programming languages preinstalled
 
-- Customized Shell and Promt for easy "devving"
+- Customized shell, shell prompt, and terminal tools for easy speedy "devving"
 
 - Arch User Repository Access
 
 - Sleek aethetics from the wired
 
-- Sane Defaults(just kidding)
+- Sane Defaults(**just kidding**)
 
-- Privacy suite: gpa, KeepassXC, macchanger, kloak keyboard anonymization, proxy-chains, tor
+- Privacy Suite: gpa, KeepassXC, macchanger, kloak keyboard anonymization, proxy-chains, tor
 
-Skid Suite:
-bettercap
-nmap
-sqlmap
-wireshark
-kismet
-wifite
-metasploit
-hashcat 
+- Skid Suite:
+  bettercap, 
+  nmap,
+  sqlmap,
+  wireshark,
+  kismet,
+  wifite,
+  metasploit,
+  routersploit,
+  hashcat 
 
 ## Community
 Reddit: [LainOSdevelopers](https://www.reddit.com/r/LainOSdevelopers/)
