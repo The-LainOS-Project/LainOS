@@ -15,7 +15,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
    3. Check your BIOS, UEFI must be ON and Secure Boot OFF.
 
-   4. Boot the system using your USB/DVD, select Xfce session(Calamares only works in Xfce), then enter no password        into the login prompt to enter the Xfce live installation environment.
+   4. Boot the system using your USB/DVD, select Xfce session(Calamares only works in Xfce), then enter no            password into the login prompt to enter the Xfce live installation environment.
       
 ## Dev roadmap
 ### LainOS Roadmap
@@ -38,7 +38,35 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 9. **Future Development: Artix-Based LainOS**  
    - Begin planning and development for an Artix-based LainOS release aimed at users who dislike systemd.
 ## Features
-> TODO
+
+- Encrypted easy installations
+
+- Snappy performance due to lightweight window managers
+
+- It's Ultra Based, on Arch Linux
+
+- Developer tools and programming languages preinstalled
+
+- Customized Shell and Promt for easy "devving"
+
+- Arch User Repository Access
+
+- Sleek aethetics from the wired
+
+- Sane Defaults(just kidding)
+
+- Privacy suite: gpa, KeepassXC, macchanger, kloak keyboard anonymization, proxy-chains, tor
+
+Skid Suite:
+bettercap
+nmap
+sqlmap
+wireshark
+kismet
+wifite
+metasploit
+hashcat 
+
 ## Community
 Reddit: [LainOSdevelopers](https://www.reddit.com/r/LainOSdevelopers/)
 
