@@ -32,9 +32,16 @@ m4K/IAApdrYJtvwtWnGD1LpDESWZU4/Zcy8RFijcw32i/OS84CQ=
 =6kFq
 -----END PGP SIGNATURE-----
 
-## Install
-To install the LainOS distro you need
-> TODO
+## Installation
+
+   1. Download LainOS
+
+   2. Burn the .iso to USB/DVD.
+
+   3. Check your BIOS, UEFI must be ON and Secure Boot OFF.
+
+   4. Boot the system using your USB/DVD, select Xfce session(Calamares only works in Xfce), then enter no password        into the login prompt to enter the Xfce live installation environment.
+      
 ## Dev roadmap
 ### LainOS Roadmap
 1. **Alpha Completion**  
