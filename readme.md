@@ -48,7 +48,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - Developer tools and programming languages preinstalled
 
-- Customized shell, shell prompt, and terminal tools for easy speedy "devving"
+- Customized shell prompt, git tools, and terminal tools for easy speedy "devving"
 
 - Arch user repository access
 
@@ -56,7 +56,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - Sane Defaults(**just kidding**)
 
-- Privacy Suite: wireguard-tools, gpa(pgp keyring), KeepassXC, macchanger, kloak keyboard anonymization, proxy-chains, tor
+- Privacy Suite: wireguard-tools, gpa(pgp keyring), KeepassXC, macchanger, kloak keyboard anonymization, proxychains-ng, tor
 
 - Skid Suite:
   bettercap, 
