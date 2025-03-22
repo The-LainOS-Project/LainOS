@@ -1,4 +1,7 @@
-> TODO TAGS AND STATUS OF BUILDS
+![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/r/LainOSdevelopers/)
+![MATRIX](https://img.shields.io/badge/Matrix%20-%20%230047a7?style=for-the-badge&logo=matrix&link=https://matrix.to/?fbclid=IwAR3aREfZ0l84eRuLdQ1RWq38Bm2mqvK4irokYoEWnvOibQPT7vqiIq_nhY8#/!hhlpPAPloYluaKwYAb:matrix.org?via=matrix.org)
+![DISCORD](https://img.shields.io/badge/Discord%20-%20%234900ff?style=for-the-badge&logo=discord&link=todo!)
+
 # ¡Welcome to LainOS Project!
 ## LainOS is a community driven Linux project built by the Serial Experiments Lain community developers.
 This project aims to create a light, useful and powerful linux distribution based on Arch Linux which simply provides a clean and customized operating system. The possibilites of customization and the rolling release model create an exceptional structure for our project development.
@@ -68,18 +71,3 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
   metasploit,
   routersploit,
   hashcat 
-
-
-## Social media
-<a href="https://www.reddit.com/r/LainOSdevelopers/">
-<img align="left" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-</a>
-
-<a href="https://matrix.to/?fbclid=IwAR3aREfZ0l84eRuLdQ1RWq38Bm2mqvK4irokYoEWnvOibQPT7vqiIq_nhY8#/!hhlpPAPloYluaKwYAb:matrix.org?via=matrix.org">
-<img align="left" src="https://img.shields.io/badge/Matrix%20-%20%230047a7?style=for-the-badge&logo=matrix">
-</a>
-
-<a href="todo">
-<img align="left" src="https://img.shields.io/badge/Discord%20-%20%234900ff?style=for-the-badge&logo=discord">
-</a>
-
