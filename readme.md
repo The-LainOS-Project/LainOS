@@ -69,7 +69,17 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
   routersploit,
   hashcat 
 
-## Community
-Reddit: [LainOSdevelopers](https://www.reddit.com/r/LainOSdevelopers/)
 
-Matrix community chat: [Matrix](https://matrix.to/#/!hhlpPAPloYluaKwYAb:matrix.org?via=matrix.org)
+## Social media
+<a href="https://www.reddit.com/r/LainOSdevelopers/">
+<img align="left" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+</a>
+
+<a href="https://matrix.to/?fbclid=IwAR3aREfZ0l84eRuLdQ1RWq38Bm2mqvK4irokYoEWnvOibQPT7vqiIq_nhY8#/!hhlpPAPloYluaKwYAb:matrix.org?via=matrix.org">
+<img align="left" src="https://img.shields.io/badge/Matrix%20-%20%230047a7?style=for-the-badge&logo=matrix">
+</a>
+
+<a href="todo">
+<img align="left" src="https://img.shields.io/badge/Discord%20-%20%234900ff?style=for-the-badge&logo=discord">
+</a>
+
