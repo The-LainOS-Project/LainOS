@@ -61,7 +61,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - Privacy Suite: wireguard-tools, gpa(pgp keyring), KeepassXC, macchanger, kloak keyboard anonymization, proxychains-ng, tor, I2P
 
-- Skid Suite:
+- Skid Kit:
   bettercap, 
   nmap,
   sqlmap,
