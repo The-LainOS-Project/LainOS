@@ -18,7 +18,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
    3. Check your BIOS, UEFI must be ON and Secure Boot OFF.
 
-   4. Boot the system using your USB/DVD, select Xfce session(Calamares only works in Xfce), then enter no            password into the login prompt to enter the Xfce live installation environment.
+   4. Boot the system using your USB/DVD, select Xfce session(Calamares only works in Xfce), login with user:lain and password:lain to enter the Xfce live installation environment.
       
 ## Dev roadmap
 ### LainOS Roadmap
