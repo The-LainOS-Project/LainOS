@@ -3,8 +3,8 @@
 ![DISCORD](https://img.shields.io/badge/Discord%20-%20%234900ff?style=for-the-badge&logo=discord&link=todo!)
 
 # ¡Welcome to LainOS Project!
-## LainOS is a community driven Linux project built by some developers from the Serial experiments Lain community who who came together and decided it was time to do something about the execution of the LainOS concept and now project.
-This project aims to create a light, useful and powerful linux distribution based on Arch Linux aimed at developers, tinkerers, and hackers alike who share admiration Serial Experiments Lain and similar works.
+## LainOS is a community driven Linux project built by some developers from the Serial experiments Lain community who came together and decided it was time to do something about the execution of the LainOS concept and now project.
+This project aims to create a light, useful and powerful linux distribution based on Arch Linux aimed at developers, tinkerers, and hackers alike who share admiration for Serial Experiments Lain and similar works.
 ## Download
 You can download the ISO file from the link below:
 
