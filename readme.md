@@ -50,7 +50,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - It's **Ultra Based**, on Arch Linux
 
-- Developer tools and programming languages preinstalled
+- Developer tools and programming languages preinstalled(code, clang, clisp, gcc, go, python, rust)
 
 - Customized shell prompt, git tools, and terminal tools for easy speedy "devving"(NeoVim, LazyVimm, Tmux and more)
 
