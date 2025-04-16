@@ -62,7 +62,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - Sane Defaults(**just kidding**)
 
-- Privacy Suite:
+- Privsec Suite:
 
 - wireguard-tools: For setting up fast, modern VPNs.
 
