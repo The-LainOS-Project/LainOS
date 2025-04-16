@@ -60,7 +60,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - Sane Defaults(**just kidding**)
 
-- Privacy Suite: wireguard-tools, gpa(pgp keyring), KeepassXC, macchanger, kloak keyboard anonymization, proxychains-ng, tor, I2P
+- Privacy Suite: wireguard-tools, gpa(pgp keyring), KeepassXC, macchanger, kloak keyboard anonymization,ufw, proxychains-ng, tor, I2P
 
 - Skid Kit:
   bettercap, 
