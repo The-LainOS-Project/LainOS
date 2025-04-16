@@ -44,7 +44,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 ## Features
 - Made with **Love**
 
-- Encrypted easy installations
+- Encrypted easy installations with customized Calamares installer
 
 - Snappy performance due to lightweight window managers
 
