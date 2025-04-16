@@ -62,15 +62,42 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - Sane Defaults(**just kidding**)
 
-- Privacy Suite: wireguard-tools, gpa(pgp keyring), KeepassXC, macchanger, kloak keyboard anonymization, ufw, proxychains-ng, tor, I2P
+- Privacy Suite:
+
+- wireguard-tools: For setting up fast, modern VPNs.
+
+- gpa: A graphical tool for managing PGP keyrings.
+
+- KeepassXC: A secure password manager.
+
+- macchanger: For spoofing MAC addresses.
+
+- kloak: Keyboard anonymization to obscure typing patterns.
+
+- ufw: A user-friendly firewall.
+
+- proxychains-ng: For routing traffic through proxies.
+
+- tor: For anonymous browsing via the Tor network.
+
+- I2P: For accessing the Invisible Internet Project network. This suite is designed for users prioritizing anonymity and data protection.
 
 - Skid Kit:
-  bettercap, 
-  nmap,
-  sqlmap,
-  wireshark,
-  kismet,
-  wifite,
-  metasploit,
-  routersploit,
-  hashcat 
+
+- bettercap: For network attacks and monitoring.
+
+- nmap: For network scanning and discovery.
+
+- sqlmap: For automated SQL injection testing.
+
+- wireshark: For packet analysis.
+
+- kismet: For wireless network analysis.
+
+- wifite: For automated Wi-Fi hacking.
+
+- metasploit: A penetration testing framework.
+
+- routersploit: For exploiting router vulnerabilities.
+
+- hashcat: For password cracking.
