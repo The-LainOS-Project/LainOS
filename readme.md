@@ -52,8 +52,6 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - Developer tools and programming languages preinstalled(code, clang, clisp, gcc, go, python, rust)
 
-- OBS studio
-
 - Customized shell prompt, git tools, and terminal tools for easy speedy "devving"(NeoVim, LazyVim with plugins, Tmux and more)
 
 - Arch user repository access
