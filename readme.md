@@ -46,7 +46,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - Encrypted easy installations with customized Calamares installer
 
-- Snappy performance due to lightweight window managers
+- Snappy performance due to lightweight window managers(Hyprland, Openbox)
 
 - It's **Ultra Based**, on Arch Linux
 
