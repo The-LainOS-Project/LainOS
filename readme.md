@@ -54,7 +54,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.0.0
 
 - obs-studio 31.0.3-1
 
-- Customized shell prompt, git tools, and terminal tools for easy speedy "devving"(NeoVim, LazyVim with plugins, Tmux and more)
+- Customized shell prompt, git tools, and terminal tools for easy speedy "devving"(NeoVim, LazyVim  with plugins, Tmux and more)
 
 - Arch user repository access
 
