@@ -9,7 +9,7 @@ This project aims to create a light, useful and powerful linux distribution base
 ## Download
 You can download the ISO file from the link below:
 
-https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.1.0
+https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.1.1
 
 ## Installation
 
