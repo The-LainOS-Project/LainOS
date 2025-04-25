@@ -35,7 +35,7 @@ https://github.com/The-LainOS-Project/LainOS/releases/tag/v1.1.1
    - Create and test the RC version.
 6. **Community Feedback on RC**  
    - Implement feedback from the community.
-7. **Official Release 1.0 "Layer 1: Accella"**  
+7. **Official Release 1.0 "Layer 1: Accela"**  
    - Launch stable version with marketing efforts.
 8. **Post-Release Support**  
    - Monitor feedback and plan future updates.
