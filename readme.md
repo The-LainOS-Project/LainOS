@@ -37,9 +37,6 @@ Post installation:
 
 - and use `nano` open LazyVim, then Shift+U to update LazyVim once you are in ZSH.
 
-Thank You!
-
-The LainOS Team
       
 ## Dev roadmap
 ### LainOS Roadmap
