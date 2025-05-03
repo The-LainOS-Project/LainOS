@@ -7,7 +7,7 @@
   <img align="top" src="https://img.shields.io/badge/Matrix%20-%20%230047a7?style=for-the-badge&logo=matrix" alt="Matrix">
 </a>
 <!--Discord-->
-<a href="todo!" target="_blank">
+<a href="https://discord.gg/atZ32vU24U" target="_blank">
   <img align="top" src="https://img.shields.io/badge/Discord%20-%20%234900ff?style=for-the-badge&logo=discord" alt="Discord">
 </a>
 
