@@ -10,6 +10,12 @@
 <a href="https://discord.gg/atZ32vU24U" target="_blank">
   <img align="top" src="https://img.shields.io/badge/Discord%20-%20%234900ff?style=for-the-badge&logo=discord" alt="Discord">
 </a>
+<!--Web page-->
+<a href="https://lainos.dev/" target="_blank">
+  <img align="top" src="https://img.shields.io/badge/Lain%20OS%20web-3d3b93?style=for-the-badge&logo=Devbox" alt="Web">
+</a>
+
+
 
 # ¡Welcome to LainOS Project!
 
