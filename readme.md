@@ -12,95 +12,67 @@
 </a>
 
 # ¡Welcome to LainOS Project!
-## LainOS is a community driven Linux project built by some developers from the SEL community who came together and decided it was time to do something about the execution of the LainOS concept and now project.
-This project aims to create a light, useful and powerful linux distribution based on Arch Linux aimed at developers, tinkerers, and hackers alike who share admiration for Serial Experiments Lain and similar works.
 
-## Download
-You can download the latest ISO file from the releases page:
+**LainOS** is a community-driven Linux distribution based on Arch Linux, inspired by Serial Experiments Lain. Created by developers from the SEL community, this project aims to deliver a lightweight yet powerful OS tailored for developers, tinkerers, and privacy-conscious users.
 
-https://github.com/The-LainOS-Project/LainOS/releases
+##  Download
 
-## Installation
+Get the latest ISO from our releases page:  [LainOS Releases](https://github.com/The-LainOS-Project/LainOS/releases)
 
-Full install on the [Wiki](https://github.com/The-LainOS-Project/LainOS/wiki/Installation)
+##  Installation
 
-## Dev roadmap
-### LainOS Roadmap
+For detailed installation instructions, visit our Wiki:  [Installation Guide](https://github.com/The-LainOS-Project/LainOS/wiki/Installation)
+
+## ⌨️ Development Roadmap 💻
+
+### Current Phase: Beta Development
 1. **Alpha Completion**  
-   - Alpha version released for initial testing.
-2. **Beta Development** (Current)  
-   - Identify bugs and gather community feedback.
+   - Initial testing version released
+2. **Beta Development**  
+   - Bug identification and community feedback collection
 3. **Bug Fixing**  
-   - Prioritize and resolve critical bugs.
+   - Critical issue resolution
 4. **Repository Cloning**  
-   - Clone and customize Arch Linux repositories, solidifying LainOS as its own distribution.
+   - Customizing Arch Linux repos to establish LainOS as standalone distro
 5. **Release Candidate (RC)**  
-   - Create and test the RC version.
+   - Final testing phase
 6. **Community Feedback on RC**  
-   - Implement feedback from the community.
+   - Implement user suggestions
 7. **Official Release 1.0 "Layer 1: Accela"**  
-   - Launch stable version with marketing efforts.
+   - Stable version launch with promotional efforts
 8. **Post-Release Support**  
-   - Monitor feedback and plan future updates.
-9. **Future Development: Artix-Based LainOS**  
-   - Begin planning and development for an Artix-based LainOS release aimed at users who dislike systemd.
-## Features
-- Made with **Love**
+   - Ongoing maintenance and update planning
+9. **Future: Artix-Based Version**  
+   - Systemd-free alternative in development
 
-- Encrypted easy installations with customized Calamares installer
+## ✨ Key Features
 
-- Snappy performance due to lightweight window managers(Hyprland, Openbox)
+###  Core Experience
+- **Arch Linux-based** with AUR access
+- **Lightweight WMs**: Hyprland and Openbox for snappy performance
+- **Custom Calamares installer** with encryption support
+- **Sleek cyberpunk aesthetics** inspired by The Wired
 
-- It's **Ultra Based**, on Arch Linux
+###  Developer Tools
+- Preinstalled languages: Python, Rust, Go, GCC, Clang, CLisp
+- NeoVim with LazyVim plugins
+- Tmux for terminal multiplexing
+- VS Code and other essential dev tools
 
-- Developer tools and programming languages preinstalled(code, clang, clisp, gcc, go, python, rust)
+###  Privacy & Security Suite
+- **Networking**: WireGuard, Tor, I2P, Proxychains-ng
+- **Protection**: UFW firewall, Kloak (keystroke anonymization)
+- **Utilities**: KeePassXC, GPA (PGP manager), MAC changer
 
-- obs-studio 31.0.3-1
+###  Pentesting Toolkit
+- Network analysis: Wireshark, Kismet, Nmap
+- Exploitation: Metasploit, RouterSploit
+- Wireless: Bettercap, Wifite
+- Password cracking: Hashcat
+- SQL injection: SQLmap
 
-- Customized shell prompt, git tools, and terminal tools for easy speedy "devving"(NeoVim, LazyVim  with plugins, Tmux and more)
+##  Community-Driven
+LainOS is made with ❤️ by and for the SEL community. We welcome contributions and feedback!
 
-- Arch user repository access
-
-- Sleek aethetics from the wired
-
-- Sane Defaults(**just kidding**)
-
-- Privsec Suite:
-
-- wireguard-tools: For setting up fast, modern VPNs.
-
-- gpa: A graphical tool for managing PGP keyrings.
-
-- KeepassXC: A secure password manager.
-
-- macchanger: For spoofing MAC addresses.
-
-- kloak: Keyboard anonymization to obscure typing patterns.
-
-- ufw: A user-friendly firewall.
-
-- proxychains-ng: For routing traffic through proxies.
-
-- tor: For anonymous browsing via the Tor network.
-
-- I2P: For accessing the Invisible Internet Project network. This suite is designed for users prioritizing anonymity and data protection.
-
-- Skid Kit:
-
-- bettercap: For network attacks and monitoring.
-
-- nmap: For network scanning and discovery.
-
-- sqlmap: For automated SQL injection testing.
-
-- wireshark: For packet analysis.
-
-- kismet: For wireless network analysis.
-
-- wifite: For automated Wi-Fi hacking.
-
-- metasploit: A penetration testing framework.
-
-- routersploit: For exploiting router vulnerabilities.
-
-- hashcat: For password cracking.
+> *"Present day... present time..."*  
+> *-  プレゼント•デイ、プレゼント•タイム*
