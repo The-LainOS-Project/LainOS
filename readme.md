@@ -14,6 +14,7 @@
 # ¡Welcome to LainOS Project!
 ## LainOS is a community driven Linux project built by some developers from the SEL community who came together and decided it was time to do something about the execution of the LainOS concept and now project.
 This project aims to create a light, useful and powerful linux distribution based on Arch Linux aimed at developers, tinkerers, and hackers alike who share admiration for Serial Experiments Lain and similar works.
+
 ## Download
 You can download the latest ISO file from the releases page:
 
@@ -21,23 +22,8 @@ https://github.com/The-LainOS-Project/LainOS/releases
 
 ## Installation
 
-   1. Download LainOS ISO
+Full install on the [Wiki](https://github.com/The-LainOS-Project/LainOS/wiki/Installation)
 
-   2. Burn the .iso to USB/DVD with a tool like rufus.
-
-   3. Check your BIOS, UEFI must be ON and Secure Boot OFF.
-
-   4. Boot the system using your USB/DVD, once you are on the user log in select Xfce on the top left button (Calamares only works in Xfce), login with ```user:liveuser and password: ``` (no password) to enter the Xfce live installation environment.
-
-Post installation:
-
-- use `sudo pacman -Sy` to update package databases, followed by `sudo pacman -Syu` to update the system  
-
-- use `chsh -s $(which zsh)` to get the custom shell prompt theme,(reboot for changes to take effect)
-
-- and use `nano` open LazyVim, then Shift+U to update LazyVim once you are in ZSH.
-
-      
 ## Dev roadmap
 ### LainOS Roadmap
 1. **Alpha Completion**  
