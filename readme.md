@@ -19,7 +19,7 @@
 
 # ¡Welcome to LainOS Project!
 
-**LainOS** is a community-driven Linux distribution based on Arch Linux, inspired by Serial Experiments Lain. Created by developers from the SEL community, this project aims to deliver a lightweight yet powerful OS tailored for developers, tinkerers, and privacy-conscious users.
+**LainOS** is a community-driven Linux distribution based on Arch Linux, inspired by Serial Experiments Lain. Created by developers from the SEL community. Project Lead: Grayson Giles (@amnesia1337), this project aims to deliver a lightweight yet powerful OS tailored for developers, tinkerers, and privacy-conscious users.
 
 ##  Download
 
