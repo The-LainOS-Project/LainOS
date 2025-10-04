@@ -24,7 +24,7 @@
 
 ##  Download
 
-Get the latest ISO from our releases page:  [LainOS Releases](https://github.com/The-LainOS-Project/LainOS/releases)
+Get the latest ISO from our releases page:  [LainOS Releases](https://gitlab.com/lainos/lainOS/-/releases)
 
 ##  Installation
 
