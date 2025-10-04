@@ -18,7 +18,7 @@
 
 
 # Welcome to LainOS!
-# LainOS has moved to GitLaB: https://GitLab.com/lainos
+# LainOS has moved to GitLab: https://GitLab.com/lainos
 
 **LainOS** is a community-driven Linux distribution based on Arch Linux, inspired by Serial Experiments Lain. Created by developers from the SEL community. Project Lead: Grayson Giles (@amnesia1337), this project aims to deliver a lightweight yet powerful OS tailored for developers, tinkerers, hoobyists, and privacy-conscious users.
 
