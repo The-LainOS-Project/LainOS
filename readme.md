@@ -17,10 +17,10 @@
 
 
 
-# ¡Welcome to LainOS Project!
-# LainOS has moved to GitlaB: https://GitLab.com/lainos
+# Welcome to LainOS!
+# LainOS has moved to GitLaB: https://GitLab.com/lainos
 
-**LainOS** is a community-driven Linux distribution based on Arch Linux, inspired by Serial Experiments Lain. Created by developers from the SEL community. Project Lead: Grayson Giles (@amnesia1337), this project aims to deliver a lightweight yet powerful OS tailored for developers, tinkerers, and privacy-conscious users.
+**LainOS** is a community-driven Linux distribution based on Arch Linux, inspired by Serial Experiments Lain. Created by developers from the SEL community. Project Lead: Grayson Giles (@amnesia1337), this project aims to deliver a lightweight yet powerful OS tailored for developers, tinkerers, hoobyists, and privacy-conscious users.
 
 ##  Download
 
@@ -64,14 +64,14 @@ For detailed installation instructions, visit our Wiki:  [Installation Guide](ht
 - Preinstalled languages: Python, Rust, Go, GCC, Clang, CLisp
 - NeoVim with LazyVim plugins
 - Tmux for terminal multiplexing
-- VS Code and other essential dev tools
+- VS Code(for the pussies who can't use Vim) and other essential dev tools
 
 ###  Privacy & Security Suite
-- **Networking**: WireGuard, Tor, I2P, Proxychains-ng
+- **Networking**: WireGuard, Tor, I2P, Proxychains-ng, Torsocks
 - **Protection**: UFW firewall, Kloak (keystroke anonymization)
-- **Utilities**: KeePassXC, GPA (PGP manager), MAC changer
+- **Utilities**: KeePassXC, Kleopatra (PGP manager), MAC changer
 
-###  Pentesting Toolkit
+###  Pentesting Toolkit(Skid Kit)
 - Network analysis: Wireshark, Kismet, Nmap
 - Exploitation: Metasploit, RouterSploit
 - Wireless: Bettercap, Wifite
