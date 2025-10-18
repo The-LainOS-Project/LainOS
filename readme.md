@@ -40,8 +40,8 @@ For detailed installation instructions, visit our Wiki:  [Installation Guide](ht
 3. **Bug Fixing**  
    - Critical issue resolution
 4. **Repository Cloning**  
-   - Customizing Arch Linux repos to establish LainOS as standalone distro
-5. **Release Candidate (RC)**  
+   - Customizing Arch Linux repos to establish LainOS as standalone distro **POSTPONED**
+5. **Release Candidate (RC)**  **CURRENT**
    - Final testing phase
 6. **Community Feedback on RC**  
    - Implement user suggestions
