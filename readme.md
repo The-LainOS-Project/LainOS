@@ -59,12 +59,13 @@ For detailed installation instructions, visit our Wiki:  [Installation Guide](ht
 - **Lightweight WMs**: Hyprland and Openbox for snappy performance
 - **Custom Calamares installer** with encryption support
 - **Sleek cyberpunk aesthetics** inspired by The Wired
+- **LibreOffice** - I don't know where else to put this on this list.
 
 ###  Developer Tools
 - Preinstalled languages: Python, Rust, Go, GCC, Clang, CLisp
 - NeoVim with LazyVim plugins
 - Tmux for terminal multiplexing
-- VS Code(for the pussies who can't use Vim) and other essential dev tools
+- VS Code(for the pussies who can't use Vim) and other essential dev tools(git and terminal utilities)
 
 ###  Privacy & Security Suite
 - **Networking**: WireGuard, Tor, I2P, Proxychains-ng, Torsocks
