@@ -71,6 +71,7 @@ For detailed installation instructions, visit our Wiki:  [Installation Guide](ht
 - **Networking**: WireGuard, Tor, I2P, Proxychains-ng, Torsocks
 - **Protection**: UFW firewall, Kloak (keystroke anonymization)
 - **Utilities**: KeePassXC, Kleopatra (PGP manager), MAC changer
+- **LainOS Secure Messaging Service/LESME**: Consists of an onionized XMPP client(Profanity) provisioning utility called LESME(automates creation of a GPG login XMPP client system), and an Onionized no logs XMPP service hosted in Iceland(LSMS).
 
 ###  Pentesting Toolkit(Skid Kit)
 - Network analysis: Wireshark, Kismet, Nmap
