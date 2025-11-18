@@ -41,13 +41,13 @@ For detailed installation instructions, visit our Wiki:  [Installation Guide](ht
    - Critical issue resolution
 4. **Repository Cloning**  
    - Customizing Arch Linux repos to establish LainOS as standalone distro **POSTPONED**
-5. **Release Candidate (RC)**  **CURRENT**
+5. **Release Candidate (RC)**  
    - Final testing phase
 6. **Community Feedback on RC**  
    - Implement user suggestions
-7. **Official Release 1.0 "Layer 1: Accela"**  
+7. **Official Release 1.0 "Layer 1: Accela"**  **COMPLETED**
    - Stable version launch with promotional efforts
-8. **Post-Release Support**  
+8. **Post-Release Support**  **CURRENT**
    - Ongoing maintenance and update planning
 9. **Future: Artix-Based Version**  
    - Systemd-free alternative in development
