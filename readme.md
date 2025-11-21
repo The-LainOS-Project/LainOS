@@ -32,7 +32,7 @@ For detailed installation instructions, visit our Wiki:  [Installation Guide](ht
 
 ## ⌨️ Development Roadmap 💻
 
-### Current Phase: Beta Development
+### Current Phase: Post Stable Release Support
 1. **Alpha Completion**  
    - Initial testing version released
 2. **Beta Development**  
